@@ -41,6 +41,7 @@ class DataTypeDemo {
         boolean flag = true;
         BigInteger bi = 30;
         BigDecimal bd = 30.24354;
+        def range = 1..10;
 
         println(x);
         println(y);
@@ -50,5 +51,6 @@ class DataTypeDemo {
         println(flag);
         println(bi)
         println(bd);
+        println(range);
     }
 }
