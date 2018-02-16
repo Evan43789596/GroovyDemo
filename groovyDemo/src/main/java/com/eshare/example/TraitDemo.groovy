@@ -1,6 +1,7 @@
 package com.eshare.example
 
 /**
+ * 特性示例
  * Created by liangyh on 2018/2/16.
  * Email:10856214@163.com
  */

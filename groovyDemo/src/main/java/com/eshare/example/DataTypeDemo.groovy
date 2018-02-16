@@ -1,8 +1,6 @@
 package com.eshare.example
-
-import com.sun.javaws.Main
-
 /**
+ * 数据类型示例
  * Created by liangyh on 2018/2/15.
  * Email:10856214@163.com
  */

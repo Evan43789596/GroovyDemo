@@ -1,0 +1,7 @@
+<document xmlns:gsp='http://groovy.codehaus.org/2005/gsp'>
+      <Student>
+         <name>${StudentName}</name>
+         <ID>${id}</ID>
+         <subject>${subject}</subject>
+      </Student>
+   </document>

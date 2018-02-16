@@ -1,0 +1,10 @@
+class ${className} {
+
+  private String ${field1};
+
+  private int ${field2};
+
+  String get${field1}{};
+
+  String get${field2}{};
+}
